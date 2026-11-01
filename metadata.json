@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Focus & Habit Guard - Android",
+  "description": "Professional Android focus manager featuring daily self-discipline habit logger with annual calendar grid, background productivity timer with alarm alerts, and password-protected device policy app locker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

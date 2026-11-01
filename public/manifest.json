@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Aegis Focus & Habit Guard",
+  "short_name": "AegisGuard",
+  "description": "Android habit tracker, productivity timer with alarms, and password-protected device policy app locker.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
